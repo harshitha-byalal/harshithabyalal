@@ -1,0 +1,15 @@
+INPUT:
+#input provided from within the program as
+goodie=['fitbit plus','ipods','mi bands','cult pass','mac book pro','digital camera','alexa','sandwich','microwave oven','Scale']
+prices=[7980,22349,999,2799,229900,11101,9999,2195,9800,4999]
+
+OUTPUT:
+
+Example Output
+Number of the employees: 4
+Here the goodies that are selected for distribution are:
+Fitbit Plus: 7980
+Microwave Oven: 9800
+Alexa: 9999
+Digital Camera: 11101
+And the difference between the chosen goodie with highest price and the lowest price is 3121
